@@ -1,4 +1,4 @@
-# ScatterPlot(Coming soon)
+# ScatterPlot
 
 In this repository you will find the PCI (Portable Custom Interaction) modules for TAO that provide various scatter plot items.
 
